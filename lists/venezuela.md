@@ -11,3 +11,4 @@ https://en.wikipedia.org/wiki/List_of_television_networks_in_Venezuela
 | 6   | Globovisión     | [>](https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png"/> | Globovision.ve |
 | 7   | Vale TV Ⓢ       | [>](https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png"/> | ValeTV.ve |
 | 9   | Telesur         | [>](https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png"/> | TeleSUR.ve |
+| 10   | chtv         | [>](https://glb.bozztv.com/glb/ssh101/stream1234/index.m3u8) | <img height="20" src="https://commons.wikimedia.org/wiki/File:Ch_tv_logo_negro.png"/> | chtv.ve |
